@@ -1,0 +1,18 @@
+Repositório de tutoriais
+========================
+
+Neste repositório iremos criar tutoriais referentes a nossas experiências com
+as diversas ferramentas com as quais interagimos.
+
+Uma idéia de estrutura é a seguinte:
+
+    Tutoriais
+    |
+    |__ desenvolvimento (pasta)
+              |
+              |__ django (pasta)
+                     |
+                     |__ Arquivo texto contendo conteúdo
+
+Basta criar a pasta referente ao assunto para melhor organização e criar o arqui
+vo texto (usando sintaxe markdown) com o texto.
